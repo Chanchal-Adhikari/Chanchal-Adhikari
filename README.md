@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and Webdev
 - 🌱 I’m currently learning full stack software development
 - 💞️ I’m looking to collaborate with people that elevates my skills learning journey
-- 🤝 To reach me you have to come to my house
+- 🤝 To reach me you need to come to my house
 - 😄 Pronouns: HIM
 - ⚡ Fun fact: I will be the next Hokage.
 - 🌟 Achivements : 8 CGPA in CS,Intern at Anudip Foundation, TH 16 max 
